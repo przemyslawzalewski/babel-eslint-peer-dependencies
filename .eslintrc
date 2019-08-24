@@ -1,0 +1,6 @@
+{
+    "parser": "@przemyslawzalewski/babel-eslint",
+    "rules": {
+        "no-unused-vars": "error"
+    }
+}
